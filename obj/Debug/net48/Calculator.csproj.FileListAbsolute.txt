@@ -1,0 +1,8 @@
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\bin\Debug\net48\Calculator.exe.config
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\bin\Debug\net48\Calculator.exe
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\bin\Debug\net48\Calculator.pdb
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\obj\Debug\net48\Calculator.csproj.AssemblyReference.cache
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\obj\Debug\net48\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\obj\Debug\net48\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\obj\Debug\net48\Calculator.exe
+C:\Users\jaysh\OneDrive\Desktop\NYZ.net\Calculator\obj\Debug\net48\Calculator.pdb

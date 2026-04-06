@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1sZc8WnQlE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaysh\\OneDrive\\Desktop\\NYZ.net\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaysh\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\jaysh\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
